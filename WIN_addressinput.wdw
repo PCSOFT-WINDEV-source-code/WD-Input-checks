@@ -1,0 +1,664 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_addressinput
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_addressinput
+ identifier : 0x21e03aea031674ee
+ internal_properties : CAAAAAgAAABjBRiJJnuTGzNRk1O5j3SMcM1K0Ie9xjOHb/ffq6WjHwsovAKudI07ABvCs8VeuYDqDAahnU+TY6/LR9FojJAkjvORyJ8i3KdTOc8dbftJhYih01M1Rj0OFO6BIjR5P0iVc18AaLuWgc5SpTQD78AubRzs3S8sI/EEQX8YTTlzD0dhDvqdGgo6zawDW1wn9jJt2qCsHrQx7+dv5muxUQdtJRrWMksAJ4HwxgnUs1W5+TvbGELbZ1knk19WtLI+ici6cFCXOiVIbLhp5ZU9fw+/mc3fpHqRh0jmblUAvYvxsPc/GFJth14wTUcEMSxnUZbUnH/acmJnpYeDWoW4f33IEJaxDWStdVrFPpIanVrJSkwrhxaGk4MSTUl+pNMr+VjtnH/cxkOkOxoYgZ6VNMXBFW7yzfgSvIV8UbjDfOi9IkqMO8ZHWX3mi0cR82X5RRp/4pm8qbUCxGHBVMuEqbtZ3wGk2OU2wqt6Qlyi8eQI7s/r1tr2vqHsYA7Bu3QfNjFCxprhWHnP9k7YmIDYgf/xSPaFwdw4UbKPsXmMWXN5CtU6GEE2JLbqcZFUQOIWPMrw7WAZDcdku0wmHHXloFjRmWQTdU6gXQftK3KiUT5r1Q2t7S4Spk9dJvwGVtC5qm2f3leuo2e0eq4rAuwF0eVWgBdJSGfJb+GIll/HG6Imbm+/UBVS9j8ofaw3pyZFyM2UuKt1qT8tVW3y1d2i49yyWHJ0F+/Lku8qfhML5GChV2OwpNEYNmXfvlyN2ABiFimQ6OHkg+oUyXjCeZnX9Hhmn7omEBf8DTnBdobmlXh/l1KIQGQua6j3pqu88j44MBvCwWu2Wy12
+ properties :
+  x : 120
+  y : 50
+  width : 400
+  height : 436
+  widthClient : 398
+  heightClient : 404
+ controls :
+  -
+    name : STATIC1
+    identifier : 0x21e03aea031774ee
+    internal_properties : CAAAAAgAAACGLUp8zHc74Lq/4Au5gXqAKifJ5d1fUlWDv1g98s+YXNspiCvE4wX688JFN3Ov51Oxw0Iby7v9zwu0k7oJvGDFBOm8Lb7w2qUM190ZdWDZHegE0kEw+RFZYHTB6TCnz9N0i0+goXTlDgU9lzZB+S2ERfGuT6thpKCE0s/L0/Hed/LJGzgBfRYynvyv2sc7QoeiHpuQVkJFGxQVE7wTisxwMb/dyFN8OYfxQZ/ZpDkjpMRcz2B1RH3LW+nHmfT+4Do+Tu2jCqERJ/X9qPxoH/qwe04Jg1du1i3xupUUnfHwvheJUQdfCPnO4sO99bkZugESKfthdzxkAfzeZBMf37894GZM7mV8etCXGgrCKtKkwHLSqrQdkhw/3nmCkOzPUOE7fc73YZ3FyBPRIE5Px7H9bm3u1aCTnBVv5jRv8V96nAgwLZlbYVRs7q3le/qt3OuZNZic0ImoockI6uJRXZ13EEavBVXjr4szteWgE7A=
+    properties :
+     x : 4
+     y : 4
+     width : 367
+     height : 26
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+  -
+    name : STATIC2
+    identifier : 0x21e03aea031874ee
+    internal_properties : CAAAAAgAAAC/AOhz+Stpz5kmKUovS4hy8jLItqJJ6mmJ6WxVDMlNSFZ2cgd3u85nsUkUqbl/+gWGLMaN1GLdXzEG7gBcO9/Sabv0ErA8gjNUHXFdQ/viRrS8Hjf4KZnDE9G6YtD0CuFizJkHjvM8pSe56e04dQpCRMt8Tn4lWG6idR0G83mNvRSoc3YUpv7Uv9Jbpqmzw5av+ouvKiyGyW99HXV/ZUJaUUOcbjE9aCV0Q2jywKnF6syDq0Bs2nag0CAjeYj3GFkeCvdbYdtWZ1NOJ86dZEbVaIpZP0+/QtM8f62J7wnmA2NFF5f8EEjn63hpMYz0OYR/eolRD0rjBzkKQ+4tUXHbGUvsweuZtYgl5DlAVWYR4PHmn3O7X/PTXCEv7BMwL4pGUJDFGlOwKbLEIn00lr5sKvZCnvEGQjGq3zhfFD/RTkTfuL4g9X61LHh9xGRbomsHAQ5UUKnkZ8j/B3sbBgr4D5ZWBjNeoQwPh3aRnSgBRhKnouXHo/PU6HWdV86yKLPjifs6Mrmv3RcL+O1SYv8SRAmuLBg=
+    properties :
+     x : 6
+     y : 33
+     width : 386
+     height : 33
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+  -
+    name : EDT_NAME
+    identifier : 0x21e03aea031974ee
+    internal_properties : CAAAAAgAAAD4zVO6FWnEh0j3e0iqlQuguWnwV7jIlNQ3RaPIc5S/3nRm/sX+zqyvRk4/T1HAvLgFZ6ySpEePpQKFNOBYyAKJFrPZV2D5Bact2FTYeC52psFqmixaIGU7Ci1MK1Eas2bCDPvxih+ZbEZzufecLo5T12RoIAX+Lt7OjNkuf1cab2yCLGUYcRQRZSKeWgSTwN6SpWpFnniPCh6nJ3T0QwQ0nFYyub7GL6RZrhqLCdQ+0z4e7LM++CLAMzUNjEecFgN5AcG4khrppmhCwp/l0CiqXTW395bSb73vAXxugZUb8CoSOweU4euHj/6ndGuuLIAzAmnovVa7V/21EenGUsXou5GuXC0UVFRYoWP46JoGFMq1lglLkMuCsE04JEdxI7dqpPy4CnN7xa/4tBYNFz55/ZLZBHXrwuHQE1g/uFEIYdLg6dIsdaBvMA3ysu+t3hitFPhlrW4zg5Hk1tjc7AyFA1mQ/z4QoPYpzOQQKX2ih3m1LgYibln6MTvRt7+Rpsz555CjfGGsXbJPUefH7Vy8G4nvrZsoV6w8m5iXOpLcsQpRpbDWL6ooIz0u2lGgl4ZEmPjU/X1hkisQrw9AlMsxOOcCFwV5E6KCCJ/qXv5UUEoPcVE9bTaFnv/RIi4G1GJbu2CgYmhpW3uaZd5QW8WVGN05YQhN6DLd8dfYsUqGBF6h4I/U/2jngxyeFkyjof129s34pNz0jzQP1Iz31L3b8Fc+7hBtERpN7hlaODG/nxjOYmb7gT3rrzXn/XYJOE3aLAhPa7e5VI2rtGAaMl8AK0kA6ZlrfjdCmFt/znCWiqcLvlvfziIdROINa2BD17JfF8WVZryPRNu2EKqGLS6amnu4ouprLppKLw7TclPDvb6/G7TyNeC8bez6U03ZLZ1eF27JSu5QvwU4lbh89dPiqWpiGsTuHVh6rbH22pNiQciGjC5loug9VUfUtjOWxJUCQmZ77cVh0ZRyOzaNBBV/o34myf1TNOsOlYAKHmVU+J4rgs94fsGovOezV3GFftiFvVggke3zJKbytKleLbs8W8UY5mXO0c28nkZKCqGjjrXADwGznYgnCLUSCLKUgcY4BXrprk2SBuZlhhqTwbzfD3+K+IUxuAiKMsCslZMMMHE9c3WkP1r73+3ojRzwdOqd+SgILLyDq/PwOPm/Ux6xMrj2B7+umGm+NITQoW6Yv4OuRmdq78b+zc2OVj/OO+5lJPHWnv2wada7l48yTPD7FqQbfWjvEquf6WhC2+n8PZaIrGk5i9yTq0ifRGPsV184okERxpfGuo86J2p6i9fM3gqDPe4VplDm17Js08npp6jYdjbwlrjlXcaEkI/uLIoMzzxdqvEOpqwX/tZG189P4TbA+KUAks6ZYgHAxduINwZOGbqKSqXeeyJfsN0WBKOe4cL++5A=
+    properties :
+     x : 6
+     y : 77
+     width : 386
+     height : 25
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1-
+         
+        type : 15
+      -
+        code : |1-
+         
+        type : 16
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+      -
+        code : |1-
+         
+        type : 17
+  -
+    name : EDT_COMPANY
+    identifier : 0x21e03aea031a74ee
+    internal_properties : CAAAAAgAAADwV8GMW1OUqLIL/03Dtb2L7yWwpTBSMvECg16bt6F0TiDHGJT7nBomiHRRcKfD4I28FO2hoUkvL2xceg+oLRFfxDTlAtbzaktQSNIYTlI7ZMBvLg1O4T52mXe71et0ZPIPM+mhk5UBtvowvGRjVbcBq65Om9WbR8eZTy3uibeN2TS+vQ70UIcHaupXy9eqC+MpR2NFyop883518wOgUmHBDpAsUMGo623lHVWbDfYobLc6DZB7WEzXqo/NauRHucQ1T7xDE8ITCVLDUTLOgpftlgHNWQeHF9vwTmllRowI7ID3ZC9jdeUEDu6Sep1WmpQsWPt7fKAmm+wiVHWXZ87/J3NMvV9hjvjcraLET2lrRqOJlzMLpQc2ZVEVn9Q8ZdpLPN+TL2yx8iBfC4lm+BFLA9McrUph1dVBWAvXWsDlnxDe0OK+rV+hh/lZ7RdWjV52pnW5dz7SDYAtjDfIPjfGj60mPiF610nsLe+UW4Pwq7B4aZEPyPaGd7Ct+4HXcGktS8MQmOfAoQfoqLt6b1bNfhiGXE66d1yiSKQDqAWHkmPDQRkouJVJuTjHxhMD13CpLo7Ig7uXWnCk9+ebp17pGQr6Onq/55t3b5YJ781ddIy9e5v9fQybBNQuoJMl9g+BV8bMtlwNtM9rmbxEPY8GowAfyM8CrM5nFWZ7dEl+VlcYHIb4LzVDhxIEek44rsSeoGOQrDlFC/sl/vy8rE3dXdsuxUCMdbvXu4d6aEtNehgUUtuDBR/dQT6UjPsH62y/ZYoqHOquUZ41EiXkKhrSPB/dvdlaexss1+yaLjTZYOqNs3WNPV7ikwr7wmw4C/0OkJr/cpk1t/RMoEUO+LSA4b9xZJzkyEkyqGv2pVluZJuk3/KGjtpKy+lzLdF15uaFKHMAPTBTm/OrGp91rhRq72Gm/9GLb2eoBrqgkDARa0E/PSSaoUViaBYimZZsD5d88ijVLTsZwSGmxaWZWNo4g/+6DpuV4ZtQyVrPtwcneyMqnOL7W+pOiG6Zeqgg4IhN49E2Xh/aAO24r/zOpRGrjjMcxQdl1DOTFOzEnBQO41n/mohbiV9w32UHq/OPddVVIWkDPmD2f+Dfd1Gfkyqlem4kezdOQf+Tyf6rg2sd0/ldyY2StttXfKq2dlMbxxeVuN6mRs44FYxt5xRKcJKislbbCrNI94y2i6P3mh5s8nfIQSJaifCSKkGa8gOFzjGmDcQAc04b7cZA4uVDcpOx9CX5U4tSSeXtodauWjog5VDkZyo957/kwLO2svWKHqY6FVEyclZsxevJJOeVziW9Uw7VuP9iro32TFvIORXSLIy35pzDcEIALEH/3m+Cb6Y2JhHt1HgVZGB+myUdIRY8sOb807K6sofHgYiy51ojn+TcPYPehkoqapfjvnMUOjgmDu+cXthf66vd+cwnqxHpaA==
+    properties :
+     x : 6
+     y : 105
+     width : 386
+     height : 25
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1-
+         
+        type : 15
+      -
+        code : |1-
+         
+        type : 16
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+      -
+        code : |1-
+         
+        type : 17
+  -
+    name : EDT_Address
+    identifier : 0x21e03aea031b74ee
+    internal_properties : CAAAAAgAAABSJBvpSSs45NkDAQ/papb2FWhYBxOx0UFYe13S/MV+ffmSylRzLqgUjIsMrQrkVKR7/itn9+F9Gp4XmEQwGiyQbD/JFkUQgnmJ2kJVYtjRyvzz0DySJeqn3mL7KcONhUj3Qi2aCSVOUf8VEHB6qJ2Dtzbs/vcjCaf9de2jGlh6MFLixvjVNb40LL2Reyn1nY3lfWpB79iAv7P90ZNFpXYRdERN8f9V78KlzRF/p1zwlCHDWUA/KZFz3r4JnARZ4G4vnJLYaicYY8GkGm/BWPO5y0/SAKzmmfqngRqzMKSLH+LsBOaIyOi9BpcFiYJMz0WFnMHgnL2nFJnxrhP7FrXeBMbJsjB/R4QoQzzG9NKVc2JsLQasdHMry5za+dbvpuuIxms1/mou53zf0VNSLMfrP89NL1jnUYEHaG70JSWECBa6A0WjpsCx/cw4luZ2QPYBNbo47zDs6NDgu6elD+jjoxar0P+6ld6MXS9mCxdhXIerszj1/lIqC350Ea1QDa/ZgtorJEA0naPebOb4zY66+qcsYgCVfZPvirik/WPKgqFa8LP1kEavDUiJkdnJSOE31nj5/oVQb5qn8fGDq987UcitI5Sv0ha0Ti4SqqQuelcjxxipEbmkVQqviy8+0LnhatiHAsOyWkvxbbIkaOZij9NFMHPYq9EIUwVZrvo4zY7IkKZtUOUgeYdgE8wUOOquvu6KS166y+zi1Pw5dDgISMEHTqDSGmP2+VOi93LH1MYdjvxyu9XPC5z9va+njj7b3Gq38nt/6se+KfeS76bvx0DbghLPD2sAm4U0+wrPdcrtOOXJRKKqwITGUjZLe6j13+xbso9Fh6OH+gIOWs0kICEzBQkETxNqXV8TDKlXBn8JDO/NbDuK6xMErsu8ENq6mIsDangyrfMIfRcCWpPCK+Fsgt2YDTL83w9NnLGO6HP7Red0cRJZL2sQi58kdyLnlMMXXFds181ahi697pJf5OoVkLhwMBV0ya8a3cgt1zpyRe/bopgOjniyls4IlNy0gugHhpoSM9LgwwZ6GJ4LsQcEW+mUIrW1M5WyGMsZxKAGSxWj67GZPJ9dKZNlnhq+jVsJx4EtMMfeG1OqLvawI3Cxxsvm4mD/6EA2mw0xyWdfBiaMAfTXDcIAReTWkzdI1USh4Hyj5pE1J4jnvw8QW70B2SxBDHTc5+AExeEygR+8ZTTR1I7vw1uHrzVEfvhBGHRpgS/DA+wQLHCtFqf9M4GyjC6FgI9a8nUn6BRfmaqxW9VsDffEu+PUA36WKDjDYxOQ4QiA4GREtLZC/8lzIZeUYCKnRuTfKTuxtKqMnx/SjHebYVAxWgMbpX1VsM9hkkyeGPOMWiMlIFs6MMsTJVv6YCRB5Ask+ryrljkmsYXHX7MMGmcH+1sjwKeJ3oFBwQ==
+    properties :
+     x : 6
+     y : 133
+     width : 386
+     height : 25
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1-
+         
+        type : 15
+      -
+        code : |1-
+         
+        type : 16
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+      -
+        code : |1-
+         
+        type : 17
+  -
+    name : EDT_ADDRESS2
+    identifier : 0x21e03aea031c74ee
+    internal_properties : CAAAAAgAAACrL6XcpXUNiUIMG7sCoUKpYyI/bDCiKMrvRkOAEhyh71JTZRmtFxrapgGKD/bwZ8oThGET7qJ8kg08J0kxTp2jLk6bpVc+lDWqpvuiBy38ZbVa1G3YFjbUe/mS17uaK7IkYTo5L0KMnKgfYfL1c2+8cvXRgwpy0fTf25i/DZayRzz40XWxLVjcfAx3RhU2kRaLnyIB9pSm9p8I6ljvRvPT8HRKlc4wK/9Pd5OxofkV2xYFQZtKL9yXfbm/6GKWX4XhsPUPNqTDcVxOw5TAGMURT/jb8QylSrGqSw/nfq5DN1lgUbMY/5y0uxR2ykqy2QNjMXG5j0Lrujf/U4lDV/QgnNpfi9Yh72vcsKit/LouoJ04SJLQ7wq5lISCcztVXb52VKAylgw3yv2D3vmJuwZXbAUnSttXwaLfudchqf/wxOCJ5raz/0S2Ml90Pr2V4lZJerJ/rUIeHbTZ8B4aaaLZ3DTLq/ehnILU22J484gpXwAzrDS+lqsxwTtNBRebq0cQG5cJC4n6d57yAllOG/TQXJ5KUTVOZ01PGiV4rbiJ/bIZiMdfi8PuFXbO/tDjynEQomJ9GmzD+WcXOTtMlVSCb06KkcABpN/mOFS4Kooq74rLn4u62xhfg7/U8ZfvwRzxH9bBykps5RDeYW3SJTvP0kovQH9luvpDciMH9FDHXrsLtG+YmoYYkzEnxm1VnxY8uoZOMG4kpvkQXAjkzFUjJd/T3nQT9rmxfhSOAxQb6l20KNHsn0a2M1drGuk2Owrt3i29bKGcALcN3VHeXLErvsWxr0X/M0B6bIBkkzGcsomc4RGntPJExT49Jnat6Zcx2rnMb454ldBs8uXE0AuY0uIlNZw3f5GFG+RKU6Unp4dDK5S85OO/baWgsRvjThyB2+gl9cNJUvkP7v7CGFzRw/Vv2c6/ax/xGXSY9UixCV+gFOAahs+SVO4qBbpVtNUZhjTekUU+vpxWKMBh1ASRld6tAUYjdjAG2OtLefVQyKysWI8mskTz9h5IJevhZtMQUJJXMjfV5fUXlHdRqF4H7/a1amhN4jgeiitHhht1Mmz7rSvLkw5WXY4Fttz4q+syyCDCJhVOC/lOtxiFtscFkSglrohhSfDMxLty04/94Z0ZDfdGgNwFOMwG0ZhhSemBK93II9iy3Y2sZkxsiwNoOvcHezqrg5bV38qIPEHgPlzdvetVyENr419yv0NWfXrSf89qRYjqYlxkdTJUNF4m5fSsEUi3pyaNAuGprnbCcdFnSSLJTj3fOzHyUIPFYQGWWxGTvZOrhNwqpKoa6gsYF8Wlb8+597l56OZSpgkZ3mpbxl2sjpzbPYp3niagOOz7yP/w7Br7Q8QwAqZKB8I069/Fllb00tiT0m1q
+    properties :
+     x : 6
+     y : 161
+     width : 386
+     height : 25
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1-
+         
+        type : 15
+      -
+        code : |1-
+         
+        type : 16
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+      -
+        code : |1-
+         
+        type : 17
+  -
+    name : EDT_ZC_STATE_PROVINCE
+    identifier : 0x21e03aea031d74ee
+    internal_properties : CAAAAAgAAAAAqx04eRkXTJJqJ5HOtAmgqUjaWsGLwMnZmNH1O3yZ8vueSHK1TjZLoFlAPyPLHykYfKT/qc2a0o8uZVfBuHEUlXvu+PJWPrMru/7WEyNfSOBtdrVnhqx4tsG9AXj14xpfbhc3FNVb8HT/YmVkcJ/jIyh9fvZIiKu2RgwIDIqH7L51CGk6OBItMDHEhNWbn5+3Ml8p6nqAVcECbFl+Vfh9T0Z+/vIx9GydS7RWe6Pm7Jfg3+dYnwu/a7IpY2mBw6HzpGxrv5Xrw9GGCWrcetr43z9wz5+xmu6cwOUD52jwy0SZVuugEluFoeLLjopgpNdw3duwuM91gIC3cSytf1mWCFIy0rFsFRO3bSNeiRnc50zhZ3TRMmLMLfJCELyvCE/Hc0tZfc0VHuAM1k2rI/ZjXYH3OxzK7dIm2WQjxnHbQEK1QeqIKKijCrd4KMp5WuX1ZBc4t1DRwAGfbuo86jczzM68Qn+yWI0NTDc6RR8fErAJT9L3uSkh9/bn/XflfP8v1m3J+olnXRQngaG68ScOFUaR6XUWzIJnttra6vKG49mninGcw5wo4vcoWRRiGUnGNPEf64jdZukG3fVFzWcVoOXdfMdscb24en8t+/OSqTAU5AkknIPAy5LU3iG1R2AmY/JZVJg+4uxI5wzYkTjcKCIFmK4AwVFszH48UYphPlvzN8NHGqMp/TXBIjeASZLPxp/oBuA04G0NXzJctnEtHBXoKjn3/51kdKFdKv0+QVnwvGZIsDXmWzalghB5XyiddnDhO2YIFUj7y5ZP7TGqn4Q6fne+r15/6OUcHlJ8kaY5iStBGaqSx7WIDl1XJuBCoiRQJzgxEPkAGs9wBiXx8huYeKY+qu2SObgo+tL+vP4uFqqNSK2bArTDQSIgDbchrFKAd+cdZjqm7tRS1NgOTfLVunxtg3OxIUwJH+s1A3HtHG2a1yaEfBogpVweb8TO6RG4KhVYkkCn8p3x92hvYfMnwRRInk5ntIsv1Q13E7r6BEbhEKy/oS0+E54VPiCdAxgG+qrQWm+3Zdkqi1wDkgRSTB5ijmww4YrATev4J9bkRm7jv0TTFmcMU9BkuJxVDqHmR4WKLw5IeBm06UxQDlPbW4046oQLNbjtTeNswA4x3YGYjgPDBeazCcjiYWUo7MX5aofOvJPw9w9N+/q0lK4ZZbmpFEFRKM0P0qNzbudgnR2FPzjX3s0w34SYVl4O41jOv8QFe3gGIWulgDwxptg0KMvlAExzbycDi8Duxusnlreh0AM1zokBuWE+cxMhxScubd8Xj8uF0b9Csz7Xxda/3MPPZxrqv8W535O86ZnRSxtVI1cAztNmtYh1EnUQ4bX2V8D+7fzAFGstC3cvsFkCrMqFFTfJTULr4B/awL2mRVMmtiucDCjXVkcXQRUE
+    properties :
+     x : 6
+     y : 189
+     width : 273
+     height : 25
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1-
+         
+        type : 15
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+      -
+        code : |1-
+         
+        type : 17
+  -
+    name : COMBO_COUNTRY
+    identifier : 0x21e03aea031e74ee
+    internal_properties : CAAAAAgAAAAWxF4G3/jyFH/WUABBl/AZv6AFNr7IcBwIr569Xp3PifOp5AEOO/SI9ieBtAzCm3lfywyJs2RBTnKZ9OqUWN8qWdF1I/ne9jmNbOyOtfX6mwZxc8GH0c1wg1d7ACeRUyB0xOoDU/Pf4bOALnPvp6nM+fZV12iN2gL10Jc0y6E3owAj70QAHACzadDfgSV7DlWuJkGysVIew230aoBvzCqdVlHYOB17Vp02hB9CFivt+A5sAIs+g1Kc/3+8Qu2ty138TxdLF4ulogEFLXSCu0lnKGZ2AW89lvj6S+rkVrGguiTjJOG4V8fC4fujrSIq3pyeHnH+YJKxxzNFkWMASK0qqY7uYQgHLIpiV9WPTiHci0E3XnFtj02taLAAD5bhyLddxWBEXaSrfj3NqIAWjw0LoYrH671IAiCk4uH1VvlTsbRxult7yh24k+so9npZsnkjt0GOtFbb4RQ4VPtl5Bx5neZirjI9MpgHa4TyUxGd1DeSHMj3zi6DAnRcgWWdIhhLb7DJzryy8fctCL8p+PnEgfrV/aliRaOt50CgcQYY7KIuP97jYlGhX3ri0H4PY0qMplp6C6XGPDRVeGG2VmftqfzDYlP0HiXN67lGdx4q9oKAIXBnoShreHSu7mhtQJQivlXXTE4lE/hp8bvkJx1mzVQLRhNS7w4vqjFshCbz1HKWhN52d5p8orAvRktmrWsDnwYuKdfI70TwYerCpmug38MSg3TA4Sfy7+KYpeBXPFX45170X50qoQlFCQEluFy0UIBVqwG8WIC5GRLNh0MBJr/OFgYk6hvbQBUe4Z3BDCYCalF6ZZu9X2yLN6TpKja/CJQtlfpYVQN2zP6+ywsyI+zR/cJqJYY33Ykf2MuK5I0Lqz2741vp8P2udroCA37r2kus5wOVCIFOLvqmyDq0JNfCwahaHJMEKwrRu6AW7rvF7xt5p1szOTa7Fv/nxkeCpTkmL9Ii4W3EActPbvB0gElZ84FHNfH4LCVTEwAAI9X2b4f8IukMyrfp3mMDS3mEjFcAl0xTAHWejIrJMBQEFgZKmXS7/IBmOQ4bLdfyd9+9r7A3k+SEITJXKRPAtmuwJaaAyVo0UujxqyszKD9lJiVOyR3PGEWLP/5sB7oxyNnjtp5uA/8UO/wweHhZNURE21u0GPt931F44elhMkTNZaPtMba8j5WYDbqR7m3FtBdiVstPnO0NLKx00C5jXkbS+83MyQSt8o5jvlLEPrCs39rBBBXEAgZuM2ZfyIcVzhhbB4P7JRdGlap5/y5ifG5t2h9tnJFzy97bhVfuJd47tazHsYcRVaOhwOzzfbBNEP5BP6S7a4RCoOKFV8PVx3Oab6kR86hDrVfP4cufyHxmtG6P5vZDe82w5s4E5cVec4i1cUSSwtd611RSDR4gN7+CFUwqeK2xglzyTKAW03RuBmofV5g76mura4XQfNrVlADi6YaKwv5np3Zo5oDMxmfkjeUSIk/+1Xp2CRBiF3hisgbyslHkWtUxVhfJCpNIoWZIhW6VUSjOhWp/RI9HXGeuEApry7AqgsyaNwgM7PyTdNOpqDptUEshlRjmdmO49N44kZEpx9k8vxvLlf3hIp5fgqx0P8N1h7cgpGzlyVIiYwSrVpvpAxLLAOy30ytrNps+z2YPtq/p+F8uqNcBCGrEY2hYGiRKs9QwhTcTCpMQaLFGr/Qm1JOofLqe1pRoNzSxb6TkNmpIeqqujgEgTetiExOSTpvjWVDKTNlhvyxgiW2UF1J26hQbA+eTT4dYa4dQ8bPPLuS8j49p2B+FSsIpa4XBFNEyGozCIcCcbg4e7hWtnWMtd8bIcA==
+    properties :
+     x : 6
+     y : 245
+     width : 386
+     height : 25
+    dropdown :
+     internal_properties : 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
+     type : 7
+    type : 14
+    code_elements :
+     type_code : 23
+     p_codes :
+      -
+        code : |1+
+         // Manage the default country
+         sDefaultCountry		is string
+         
+         // Current language
+         switch Nation()
+         	case nationFrench
+         		// France by default
+         		sDefaultCountry = "France"
+         	case nationAmerican, nationEnglish
+         		// United States by default
+         		sDefaultCountry = "USA"
+         		
+         end
+         
+         // Finds the default country in the list
+         nSubscript is int = ListSeek(COMBO_COUNTRY,sDefaultCountry)
+         if nSubscript>0 then 
+         	// Select the element
+         	ListSelectPlus(COMBO_COUNTRY,nSubscript)
+         	Selection_Country()
+         end
+         
+        type : 14
+      -
+        type : 35
+        enabled : false
+      -
+        code : |1-
+         
+        type : 15
+      -
+        code : |1-
+         
+        type : 16
+      -
+        code : |1+
+         Selection_Country()
+        type : 33
+      -
+        type : 17
+        enabled : false
+  -
+    name : EDT_PHONE
+    identifier : 0x21e03aea031f74ee
+    internal_properties : CAAAAAgAAAA4X/FAL+B+inSCAosEj3svvjbxu/qqtM9D5izlyojQua+sjniNaGAZMicrCTH02Amw2sarbwbCwvHEPXISusBYz4Arr88TfERBRH+ZPpPrZuKTNDavBmU1xzvW94DitP/p4pVxue8ULkle9QzgVpbgBCliEQVyh51482VN4prDgdw4jyFvZx/kmEm40L5qBF3H29wPWtz2EBD2jZcMTUSpYRjkVnPSMQ0k/Bv2VHGQaXgAhWyE365qOiXtCIT+GRT+daMQx3AdGRImEpfOdBvBb6iU9reK13Xkvau7C3zHQVMtKooL2hHlCMPe5HYNSUEVElEEvOEyAcjvi0BvfCJbnu87P++nrmNjzxJl6Jk7yielVFzVC4zzzeD/Iu7QrE6Hj+gVOUg2+Gp0yd6eBCJxZi3qne+p2YhiWlqnTFYFGMGiASwdaknUyaaBI082+zjLHCw2qnQ8cGlsqSu2hvAQVTZ4cQG4zPQO2p69LK3Wm7jOPIMDvZBT/DlQ6TRvG0JVgguGGSAXVlK948KHGk9mcyfhWY8U26uy19KDzY3/NCAX2isRAtmDFsbgABPRZq60kO75w3A6QFGwguxekAmNTvh/s4Z4rScVFckYdQBrvaPXRsS6TYB4AbrNAZSGJjAKgEgBwM5wynzVohnzk+WKNsV08lWykXph0+5rGRqg1yP4J1MPrMV+fND5PZ48eJ/1lkG3yokY7gZsBBPj8qn6X8yhOojOj7g4DYYgds54DRTO1WRb28T0muB3avr8VuNoIil5veRz/IQkzJ6FxHR0ZxevV0bz3hY//7Y2MNOfE6+pPmIDa+4VdWDwjWDilQ9TY475z2eE0jqkndR+o5GWmv/u3ohc+7an/61fY8blrd/adNmw+x1MGyXT2BMCszuEzdL7v0VTUKCDLUQ8eDHgANJNtvu0jKXOObIzY1SQH+4aV8gf1q680LtAuSk44/iwTabrpjW7HtpyTX5SSVAymNhCFc5bOySTBifl6PER8mXzHxSh5jNGaSiG5/FGBNXKeq6w/G0g62To3j90IrTtrwEQ3MNRjGL8BkyvsjqiNeZyMIva9ak/GrkN/KuErqL0jwsysx+zd11ri7M/387OGbsU9l3vrxN1xTYpbrbvR3wN+sfPk/gMedTg1WlAXTzxWJYFTDVy2m9rgLz35/tauZcsBFxpzFnSY7aw82hKtKlsWQWW3d/Pq62p8ukTadBeVpf/TqNllhvJzHZHXuCel/Sg2C+2wY+ZzuCtK6XsqDRcFoVQ3ZSOvXcbkBEcNYu8IAw1wAm0CxLlOX6FkU4yV8UcxPPAnjOttu1l2xJnRO6/E0+a5WRkLjUPBL6sue4qUfsyvXLCfaGG3chvxLkRCnIuk7GKvaxAMTk=
+    properties :
+     x : 6
+     y : 273
+     width : 386
+     height : 25
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1-
+         
+        type : 15
+      -
+        code : |1-
+         
+        type : 16
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+      -
+        code : |1-
+         
+        type : 17
+  -
+    name : EDT_EMAIL
+    identifier : 0x21e03aea032074ee
+    internal_properties : CAAAAAgAAAB6jRVJFpNbgszj937hnuxb70eSszpUmowjLyZ1OhzWSP/6hFrLA57PWOXZHKY373wJelChwQ94NWYoM7vtpIB4X35ffwYNHDeCdlTffaZQ6tEKu4oiR344DEwASGj5GHQP/MGEVFu8WeuvYAYzdh6sPEKfHpUXvKm+MvIzuCDjA57TIlqRvEgiqsn0z8xyEAW5kBphbm3Ttj2FnxrqQWvTRxt6dEA1m332z1TZa+/w1tj9sG0laJKwv6d4mQacGFz/WGyDocYgXBdBmm1ogjW6TXVswlzrb+YhD1MhUnYNGhOqR1M7Tnypbt614MbtvG7Xp2nTdx99baPEMGfzF7qlIpyIAYpCt2Gl1DQoeI7xzk/CzNacWYk9DXKIvZ+7KQAkLCj7w0kaj5BtKoiTFjjO12W1pmLYCCv5DHXsZgBu0W4BFszbcBIaJn07ZArLW8Xy0c5hcjEUj+MzOiMEhXJLeI6/HGadU0lFiUCScYaFAAKwyqEydiwuFvHmXg+wZUkU0UavNbQHrVWPskdnWi6IG2ByblWP4wNM9Sdcq7IUVqvy+KzqplG0lzcoMjd4Fcnd+p12NjyEI/uYZxXqXsREBgc9tgGwZajzHBUtb4Oc2f9h1R7F5B3C9X3OWiV3kC+I4DM6eAFURd338Auca4SAcBmuDKc1hnXF/DbwdZsJwj0Ba74+Ls56u0UR1EpqxwzVGfoPrD9bLGezbEqlXJBXaWkScrJkntI5mFR9sKrv+saz4L5385O+S6Mti06Stybk04jB435wBJl30EtFLrsxc4jq5U6lB7RSNA5ddI8csnc2+yp1Dx/TYhsYHOp+Qm41cM8dJUPRHB2BXUlIH2y/evS91g5iOvrIFqHg73w2uIvRkf0q54q0qADxwZGM4ij8kN37SXc8rDegp78UTrYodSJLffglRuB87ZdFUl98b0e2y72iucZJqJk/kVT9axynX56mS47NtVR6digfkrpsA16spv3aU8ll2lqvpVQ98hLdue1UQfELlXH7AQAfQikdLdq6xfWUqKTlgkHp4zw4ogJrScIIiiVIqWfj84nFcVpiMWNbtY3NN0fA7pYT3Hd0zUNfAkSVTGntfgcp60M9h++k88xUpY6NUzfHc7l3+9gu4Zc93Rc2ipcgqPfZVRC6zm7l7o8rdt2OAVQy1l1qMo3qNdfGxNQG1SUGHFXQmiY0CfgfkX6WRTRwefUS9XkD5U3XxN0/czd/VpqDm+Est5Xk2MO7RxbkNGwKViVkLEYIDibtotl+V4SjsaR7D0F7tuJYuEHvAg7A/8UXvLc5Is1P5I63N1DW7PDVIIvV5cTgkwpWCWiOkF+8v69S2Nagb9UXbKMLaS+JxmMKe56ECSgjUqX+
+    properties :
+     x : 6
+     y : 301
+     width : 386
+     height : 25
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1-
+         
+        type : 15
+      -
+        code : |1-
+         
+        type : 16
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+      -
+        code : |1-
+         
+        type : 17
+  -
+    name : BTN_SAVE
+    identifier : 0x21e03aea032174ee
+    internal_properties : CAAAAAgAAAAASUm/F3dy/pTzaJQvWAubu3KYAtSHChydUdyz9I5Y1ZXw5/xJkM/pwZwta3uK6RsTbdqFhlen1S7GqWiCAMOPbF4yfqK4k6rzE5BuVVc46KcSSNSQ8/i/YeDFCWcwtXwpjZ7fByuXrp6B2yrA1YnAR9q5ilJVKLIedOfhAG+2fEtASo65tYHd2iwubHOiVyP9Onf+jf1fxyFusuarNT38XW5yXwdhyjOmg0lHyfKrzyka9/fbOtdI/T+vi2y1JNvKigk0aB2FKCoPr2tnKbJEdrMDTL28i6/ym0mGQ1jVsbCu11QlovROG7dUFXMYLhyHWAbMywFpaATDIb1eqdGabn0s2lceKfRAX4s+urkbWOUyRjkmRCZhhB828fG1p/uNWS9zHAmi/YEx5tx2t6S5B6Z9rrtChJrcSRXhZrNOPsu4eXaQPwFcGM5MRSvNqjUTPS7IVEwJZQNFyD4ObvCtnnPnKKo0YLtuXCe/QN8wohPSFRtqXmNTql0EUNuszDAIhr1ZEKJH9FalVFPBrIVpPY4yixtR9e3TF7Vyef5NFfe0CSmtGVXhPBqB4ThgRfyf9Ob3f4EvNqeCdfedj1xyzfGFEmwVzr7cfq+VV0ECJRn5Hs4X1fv7yyrCpfmAr26PNrfM6VXmYRfMv+0SAvwOGCT6RIQHHt67SUePry0QTv7WshT+m1IEc2A933PyAMsaljz+YLeyqsSi8UJglqezWNOnlYyrILw6Wn65Y3N1tn+7r2reEpodPphF3x/IdqtAqb0EUEQ1xf97nJyQIRXivXdRS6dviujHYc2whibByDe5T2fGWGS6Q9RwI5VpOzWdGywMUYXWzwYohg5HcylBakESm3fys5AYFUYtdzCcZ3PCZyaIFvdIfmJSYuQMqX+uSU/RLFZyHKNuVV+UfkRqdSv7hb+E8I+iSg==
+    properties :
+     x : 166
+     y : 374
+     width : 110
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        internal_properties : CAAAAAgAAABLLRJpBcdTNg9MHxpED/BJg90MnOiNYxvPsjMgCNXPT9FcbrjzENFNWIPDlMjmnX7XujpQYNTSBJ6dyD0wgA4kLdF0+7X8iNjkzmJc5iIo+kvJOBNqu/aHwAhtBCfRZ1RVFeeREhjukkSWt+w=
+        code : |1+
+         if InvalidInputDetect() then
+         	return False
+         end
+         
+         
+         if EDT_EMAIL<>"" then
+         	if not bCheckEmail(EDT_EMAIL) then
+         		Error(<§$0010§>)
+         		SetFocusAndReturnToUserInput(EDT_EMAIL)
+         	end
+         end
+         
+         // Saving the address in the database
+         SaveAddress()
+         
+         Info(<§$000b§>)
+         
+         // Reinitialization
+         HReset(ADDRESS)
+         Reset()
+         ExecuteProcess(COMBO_COUNTRY,trtInit)
+         SetFocusAndReturnToUserInput(EDT_NAME)
+         
+         
+         return True
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_CLOSE
+    identifier : 0x21e03aea032274ee
+    internal_properties : CAAAAAgAAABkrNgudwE/+h+Vdeu5ySenloWnQg2nJr/PgbObjyrXut58ifPfJ2AnrhDSgWhj3JU+9+21EAs5cX/Pl+HD3mhVJT/PTd9lE4CeRiHZ4qkQAncuKlAfIBXlhakF8Wi1OKp85Zl4yDpOsgvZVGVHV/TSeN6gRzqqGS3nFKU98DCo9ZjDeaiLOMTZr6G5qPGg055RA6FgqYrD9QHnnRYHkIo/Mwb1ol0JUlTVmq/jPL8OcbZ2xOIEErgUvz+sOd4ob2yBkqHT4snkGbADW/d/mTWTt6oN2MQVsSx7v5hMQWw5cAIfPHZzmGOkPqSLn6/hNV4UUf68EZkpxFcxNxHkSX4LVtnZ7kBffsrsTi3oQMWUtxst4qT80mEtzHEbcXBk6L7BMjmcSrTOXxkT1mJVD+W11h4ajK44ytkhUIu3NCuXbCKh9jnWJ/++EVHBTVAei3JbLXUCMQK6zWhoZ+KoP3JGgKe6b+XYFRWUjz9QUsrCaPI+sKVW+lWzDp1XhdUqyavz6sUk4BjV9wAqOazwRogCABwK8wsFS5UEt8SMURDaxsrPlO3XLGAHYpVvnZt5SP9i2y11zDgKWLrzSxP5uZAIW74aSW9RlrN2ccfRwdDD6+6YCIRX5kynDdsIltwXpcWggFRZ5/ULKndrcYJV5XlDZg+U9kY7K579oO3iGSag234C9g1EUNqm5KEcSVGpDL/1eDTOD0QWmSeLYPFScwFJCx+xS/sWX3esSirrTqKZLVNlhLGGjULRrpOWV7hQ2IjNqmaGFUFOZzGCPmeUziiCADhK9Y/6A80DHHIzzXOhOTcDP8DRZbpVzeUCA7+zpQpwee1kqPaf8oOyx/mwIBMeRM73p/CFsQvmGEBKyLG21pfVRFSP6QCDsTASZYA+kvHNRGLtLpg18XdaHvCfsgRI/r0VLLb1I1as17gj
+    properties :
+     x : 282
+     y : 374
+     width : 110
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1+
+         Close()
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : EDT_CITY
+    identifier : 0x2241bc7004ac4cbe
+    internal_properties : CAAAAAgAAACleqp3+QDV3ihP7+XHAMjqblkpIuUJE1+JjtPVly/c04p1LeJi9XmrK46jqIA+bX1oxv5Ep/G97qpPwv5nR/NUrSIWD43/zmJZ8WVpR/v0NpkZYpuE+MINEnTXsSjxLTrvprimqQqe9buLmkKihAs482j2GlNeoOxx1G2e5qhBnY+ncgGaR66znOJIG3jPyXJXyPNv5ZXRDE1jJmaNwqpFGinSwtScG5lTdwIUH6qx/zEcAAjZMdeGzTbHj6b+bBo2HGyM3TYjlh6qevfaO77ORpircTIhPcgaZuEzWYtSITEeLN7yJHVZs9tb317mwjRqoy8OrGciuUXCfVABRaQMPcRvKaYDHDw/HZXcNllOS0exPWSgZt8mXHo3iWSE7r1xlgQ2OYja8eB3Pl9lEfRR/x5UW7ZE7wJF9UUQ4Nx1ohuTotIHtT2AwsS4wsu8v0BIc1xkriH4fieSDiGvzCj/epI9MzADQ6HLvl3jbuEQQuUEATMWZmUU9366bEAOgTYq9NOXbZXXMmTKM6K9W+irCU+28qBLRCDZRYZgCSoxHq/C13ffvhi8sMl001IRCrf2PP7cDzAdsaA4GM5tjSyXzeC4hP9BHy93M1uFXNpiDVFlWcRBNaNl2a9TsiADcZYkCnB/euRgeVrqzcf+0Bwl4q8zl08LKMBgqKWzQlTWQj+veDKTgv7pAVPIgZEHGMpNu04iqd4dDfkUJko5SNPv0isVVfe3PjGfih6ku9lva8Rvrvuo+COyfwLGvlGVGaETN08ZPSGI7I6A2+kTMVDwl4CsPCwjzLxpd7QWEc56rC0k0CY8a7LNFV2ESzlFqHL5xyQ9Azel7khg2P0wsYBIWgch25bvbddLucbctUV/V5e3qM5OBVyBm4/E5vrYSeXgOQ2IfiDQU6PaFjfS4SJvMc5S3hwj4r9MR+5sobxDrA/SdvlfubNIm7QwI2JtbBo873cVLnO9OSLteG+j2q/ATJNPQu1ZSKTXtOsnCN+rDbRUHPA4ggfog5mlmTZBicSuC0d2sC4koje2pJee02sEJydWz01FPmuMCmx2GPL0+FPXgZNOS+BuUXU7r4jdj2G6yY1D6cDy92dvvsAARBjBczXxoBr3lLwaZPgP5Zgli5YxVRWwlOtgpCSDVpsOz84tDMNTdxivWa6TkDZoCtd1qGIC43Zq2lkzc5n+Veh33bj07IWhKmmXUwpt/3W+JGOsK0p8WgHp6CGdc5tksAe1ziHAar7gqsMVQPpgpCpzxz00URHtlPzSQn3aThck1RYFMS/roHK1a5Qh9UdFWk/CpM40NBOxFLM1H89wGIMckbh52FVuCLJYdseZb7FUujjebTMKU2DmBzdEw9fbWNcSqOU0MvY=
+    properties :
+     x : 6
+     y : 217
+     width : 386
+     height : 25
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1-
+         
+        type : 15
+      -
+        code : |1-
+         
+        type : 16
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+      -
+        code : |1-
+         
+        type : 17
+ menu :
+  name : Menu
+  identifier : 0x2af9532614f60201
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAACVBkxDdshjJyfJzJE/d4ulmVyjnZyMYXcsOQ/q8oHIOwxcjypTWTb0znUC3zOGP68JH4467ptPnQrDzJZNdgZf3XowBWHPliFRTEHd6vg+O4xy+6h4L3xprJB7wAaW4A==
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      
+   -
+     code : |1-
+      
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 2
+   -
+     code : |1-
+      
+     type : 11
+   -
+     code : |1-
+      
+     type : 12
+   -
+     type : 17
+   -
+     code : |1-
+      
+     type : 13
+  procedures :
+   -
+     name : Selection_Country
+     procedure_id : 1288094270131696878
+     type_code : 14
+     code : |1+
+      // Summary: When selecting a country, you can determine the mask to be applied for the phone number and postal code
+      // Syntax:
+      //Selection_Country ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      
+      procedure Selection_Country()
+      
+      // The edit masks are defined according to the country
+      switch COMBO_COUNTRY.DisplayedValue
+      	case ~="France"
+      		EDT_PHONE.InputMask 		= maskPhoneFrance
+      		EDT_ZC_STATE_PROVINCE.InputMask 	= maskZipCode
+      		
+      	case ~="USA"
+      		EDT_PHONE.InputMask 		= maskPhone
+      		EDT_ZC_STATE_PROVINCE.InputMask 	= maskZipCodeUS
+      	
+      	case ~="Spain"
+      		EDT_PHONE.InputMask 		= maskPhone
+      		EDT_ZC_STATE_PROVINCE.InputMask 	= maskZipCodeSpain
+      		
+      	case ~="Germany"
+      		EDT_PHONE.InputMask 		= maskPhone
+      		EDT_ZC_STATE_PROVINCE.InputMask 	= maskZipCodeGermany
+      	
+      	// New countries can be added
+      	
+      		
+      	other case
+      		// Default case when the country is not recognized
+      		EDT_PHONE.InputMask 		= maskPhone
+      		EDT_ZC_STATE_PROVINCE.InputMask 	= ""
+      end
+     type : 458752
+   -
+     name : SaveAddress
+     procedure_id : 1288094270131762414
+     type_code : 14
+     code : |1-
+      procedure SaveAddress()
+      
+      // Store the personal details
+      ScreenToFile(WIN_addressinput,ADDRESS)
+      ADDRESS.COUNTRY=Upper(COMBO_COUNTRY[COMBO_COUNTRY]) 			// Retrieve the country selected in the combo box
+      HAdd(ADDRESS)
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FEN_saisieadresse
+resources :
+ string_res :
+  identifier : 0x3b24f49108c4f9c7
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text : {}
+     index : 1
+   -
+     text : {}
+     index : 2
+   -
+     text :
+      en-GB : "French phone numbers start with 01, 02, 03, 04, 05 or 06\r\n\r\nSave the number?"
+     index : 3
+   -
+     text :
+      en-GB : "French phone numbers are 10 digits long.\r\n\r\nSave number?"
+     index : 4
+   -
+     text :
+      en-GB : "For a foreign country, your phone number must be prefixed by 00."
+     index : 5
+   -
+     text :
+      en-GB : "The phone number seems to be incomplete.\r\n\r\nDo you want to save the number?"
+     index : 6
+   -
+     text :
+      en-GB : "The zip code seems to be incomplete.\r\n\r\nDo you want to save the number?"
+     index : 7
+   -
+     text : {}
+     index : 8
+   -
+     text : {}
+     index : 9
+   -
+     text : {}
+     index : 10
+   -
+     text :
+      en-GB : Personal details saved
+     index : 11
+   -
+     text :
+      en-GB : The specified name is invalid.
+     index : 12
+   -
+     text :
+      en-GB : Specify the name of your company.
+     index : 13
+   -
+     text :
+      en-GB : Specify your address.
+     index : 14
+   -
+     text :
+      en-GB : Specify your city.
+     index : 15
+   -
+     text :
+      en-GB : Invalid email address!
+     index : 16
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+associated_test :
+ name : TEST_addressinput.wxt
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
